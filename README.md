@@ -1,2 +1,2 @@
 # power-bi-workshop
-Some basic data visualization dashboard I did with DEVCON pips. 
+Some basic data visualization dashboards I did with DEVCON pips. 
