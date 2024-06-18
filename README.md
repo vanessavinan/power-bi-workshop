@@ -1,2 +1,2 @@
 # power-bi-workshop
-Some stuff I did with DEVCON pips. 
+Some basic data visualization kit I did with DEVCON pips. 
